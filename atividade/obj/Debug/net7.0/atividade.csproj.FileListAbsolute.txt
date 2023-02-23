@@ -1,0 +1,15 @@
+C:\Users\NevesRibeiro\Desktop\__senai3_Projeto\Senai_Projeto3\atividade\bin\Debug\net7.0\atividade.exe
+C:\Users\NevesRibeiro\Desktop\__senai3_Projeto\Senai_Projeto3\atividade\bin\Debug\net7.0\atividade.deps.json
+C:\Users\NevesRibeiro\Desktop\__senai3_Projeto\Senai_Projeto3\atividade\bin\Debug\net7.0\atividade.runtimeconfig.json
+C:\Users\NevesRibeiro\Desktop\__senai3_Projeto\Senai_Projeto3\atividade\bin\Debug\net7.0\atividade.dll
+C:\Users\NevesRibeiro\Desktop\__senai3_Projeto\Senai_Projeto3\atividade\bin\Debug\net7.0\atividade.pdb
+C:\Users\NevesRibeiro\Desktop\__senai3_Projeto\Senai_Projeto3\atividade\obj\Debug\net7.0\atividade.csproj.AssemblyReference.cache
+C:\Users\NevesRibeiro\Desktop\__senai3_Projeto\Senai_Projeto3\atividade\obj\Debug\net7.0\atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NevesRibeiro\Desktop\__senai3_Projeto\Senai_Projeto3\atividade\obj\Debug\net7.0\atividade.AssemblyInfoInputs.cache
+C:\Users\NevesRibeiro\Desktop\__senai3_Projeto\Senai_Projeto3\atividade\obj\Debug\net7.0\atividade.AssemblyInfo.cs
+C:\Users\NevesRibeiro\Desktop\__senai3_Projeto\Senai_Projeto3\atividade\obj\Debug\net7.0\atividade.csproj.CoreCompileInputs.cache
+C:\Users\NevesRibeiro\Desktop\__senai3_Projeto\Senai_Projeto3\atividade\obj\Debug\net7.0\atividade.dll
+C:\Users\NevesRibeiro\Desktop\__senai3_Projeto\Senai_Projeto3\atividade\obj\Debug\net7.0\refint\atividade.dll
+C:\Users\NevesRibeiro\Desktop\__senai3_Projeto\Senai_Projeto3\atividade\obj\Debug\net7.0\atividade.pdb
+C:\Users\NevesRibeiro\Desktop\__senai3_Projeto\Senai_Projeto3\atividade\obj\Debug\net7.0\atividade.genruntimeconfig.cache
+C:\Users\NevesRibeiro\Desktop\__senai3_Projeto\Senai_Projeto3\atividade\obj\Debug\net7.0\ref\atividade.dll
