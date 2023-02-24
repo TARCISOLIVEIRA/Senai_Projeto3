@@ -37,6 +37,31 @@ namespace  Atividade
             Console.WriteLine("Total a Receber ...." + pf.total.ToString("C"));
             
         } else {
+            if (var_tipo = "j")
+            {
+                Pessoa_Juridica pj = new Pessoa_Juridica ();
+                pj.nome = var_nome;
+                pj.data_nascimento = var_data_nascimento;
+
+                Console.WriteLine("Informe o número do CNPJ.....:");
+                pj.cnpj = Console.ReadLine ();
+
+                Console.WriteLine("Informe o valor do salário....:");
+
+                val_pag = float.Parse (Console.ReadLine());
+                pf.Pagar_Imposto(val_pag); 
+
+                Console.WriteLine("========Pessoa Jurídica======");
+               
+            Console.WriteLine ("Nome...........:" + pj.nome);
+            Console.WriteLine ("Data de Nascimento..." + pj.data_nascimento);
+            Console.WriteLine("CPF................" + pj.cnpj);
+            Console.WriteLine("Valor Salário" + pj.valor.ToString("C"));
+            Console.WriteLine("Imposto...........:" + pj.valor_imposto.ToString("C"));
+            Console.WriteLine("Total a Receber ...." + pj.total.ToString("C"));
+                
+
+            }
 
 
 

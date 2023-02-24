@@ -1,6 +1,6 @@
 namespace Atividade
 {
-    class Pesoa_Juridica : Clientes
+    class Pessoa_Juridica : Clientes
     {
         public string cnpj {get; set;}
 
