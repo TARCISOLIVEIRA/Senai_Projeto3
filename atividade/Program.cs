@@ -37,7 +37,7 @@ namespace  Atividade
             Console.WriteLine("Total a Receber ...." + pf.total.ToString("C"));
             
         } else {
-            if (var_tipo = "j")
+            if (var_tipo == "j")
             {
                 Pessoa_Juridica pj = new Pessoa_Juridica ();
                 pj.nome = var_nome;
@@ -49,7 +49,7 @@ namespace  Atividade
                 Console.WriteLine("Informe o valor do salário....:");
 
                 val_pag = float.Parse (Console.ReadLine());
-                pf.Pagar_Imposto(val_pag); 
+                pj.Pagar_Imposto(val_pag); 
 
                 Console.WriteLine("========Pessoa Jurídica======");
                
